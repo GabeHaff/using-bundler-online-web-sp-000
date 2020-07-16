@@ -1,1 +1,1 @@
-require relative 
+require relative 'config/environment.rb'
