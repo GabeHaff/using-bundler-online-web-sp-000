@@ -1,1 +1,1 @@
-require relative 'config/environment.rb'
+require "bundler/setup" #'config/environment.rb'
